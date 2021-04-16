@@ -1,0 +1,26 @@
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\bin\Debug\CustomerReview.exe.config
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\bin\Debug\CustomerReview.exe
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\bin\Debug\CustomerReview.pdb
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\obj\Debug\CustomerReview.csprojAssemblyReference.cache
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\obj\Debug\CustomerReview.CustomerReview.resources
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\obj\Debug\CustomerReview.Properties.Resources.resources
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\obj\Debug\CustomerReview.csproj.GenerateResource.cache
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\obj\Debug\CustomerReview.csproj.CoreCompileInputs.cache
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\obj\Debug\CustomerReview.exe
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\obj\Debug\CustomerReview.pdb
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Predator\OneDrive\Documents\Application Development\CustomerReview\obj\Debug\CustomerReview.csproj.CopyComplete
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\bin\Debug\CustomerReview.exe.config
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\bin\Debug\CustomerReview.exe
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\bin\Debug\CustomerReview.pdb
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\obj\Debug\CustomerReview.csprojAssemblyReference.cache
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\obj\Debug\CustomerReview.CustomerReview.resources
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\obj\Debug\CustomerReview.Properties.Resources.resources
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\obj\Debug\CustomerReview.csproj.GenerateResource.cache
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\obj\Debug\CustomerReview.csproj.CoreCompileInputs.cache
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\obj\Debug\CustomerReview.csproj.CopyComplete
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\obj\Debug\CustomerReview.exe
+C:\Users\Predator\OneDrive\Documents\Islington College\year 3\Application Development\CustomerReview\obj\Debug\CustomerReview.pdb
